@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewCalories</string>
+    <string name="tv1">Total de calorias</string>
+    <string name="tv2">Peso por porção</string>
+    <string name="btn1">Calcular</string>
+    <string name="tv3">Resultado</string>
+    <string name="tv4">Calorias por porção</string>
+    <string name="new_calories">New Calories</string>
+</resources>
